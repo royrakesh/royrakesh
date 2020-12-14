@@ -3,9 +3,9 @@
 <h4 align="center">Passionate about new technologies. Wish to be a programmer someday.
  :)</h4>
 
-<p>Hi, I’m Rakesh, I'm a Full-Stack Developer with over 5 years of experience building interactive sites for global clients.
+<p>Hi, I’m Rakesh, I'm a Full-Stack Developer from 🚀 India. I have over 5 years of experience building interactive sites for global/local clients.
 
-Using modern web technologies such as Wordpress, Angular, Barbajs and Mobile technologies using Flutter and Ionic, I'm able to deliver fast, accessible and SEO optimised web experiences efficiently and to a high standard. </p>
+Using modern web technologies such as Wordpress, Angular, Barbajs and Mobile technologies like Flutter and Ionic, I'm able to deliver fast.</p>
 <hr>
 
 - 🔭 I’m currently working on [a secret project](https://github.com/royrakesh)
