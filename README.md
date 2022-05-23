@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Rakesh Roy
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/?ref=producthunt" alt="my banner">
+<img width="100%" src="./github-header-image.png" alt="my banner">
 
 Hi, I’m Rakesh, I'm a Full-Stack Developer from 🚀 India. I have over 6 years of experience building interactive sites for global/local clients.
 
