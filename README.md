@@ -36,9 +36,9 @@ Using modern web technologies such as Wordpress, Angular, Barbajs and Mobile tec
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/royrakesh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/royrakesh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/_royrakesh"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/https://stackoverflow.com/users/7313719/rakesh-roy"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://stackoverflow.com/users/7313719/rakesh-roy"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
