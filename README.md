@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Rakesh Roy
+# Experienced Senior Full Stack Developer specializing in WordPress | WooCommerce | PHP | Laravel | Tailwind and more.
 
 <img width="100%" src="./royrakesh-dev.png" alt="my banner">
 
