@@ -1,4 +1,4 @@
-# Experienced Senior Full Stack Developer specializing in WordPress | WooCommerce | PHP | Laravel | Tailwind and more.
+# 💻 Tech Enthusiast & Problem Solver | WordPress Plugin Author
 
 <img width="100%" src="./royrakesh-header-2024.jpeg" alt="my banner">
 
