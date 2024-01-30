@@ -1,17 +1,16 @@
 # Experienced Senior Full Stack Developer specializing in WordPress | WooCommerce | PHP | Laravel | Tailwind and more.
 
-<img width="100%" src="./royrakesh-dev.png" alt="my banner">
+<img width="100%" src="./royrakesh-header-2024.jpeg" alt="my banner">
 
-Hi, I’m Rakesh, I'm a Full-Stack Developer from 🚀 India. I have over 6 years of experience building interactive sites for global/local clients.
+Hi, I’m Rakesh, I'm a Full-Stack Developer from 🚀 India. I have over 8+ years of experience building interactive sites for global/local clients.
 
 Using modern web technologies such as Wordpress, Angular, Barbajs and Mobile technologies like Flutter and Ionic, I'm able to deliver fast.
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Creoate</p>
 <p>👯 I want to collaborate on NestJs</p>
 <p>🙏 I'm looking for help with Typescript</p>
 <p>🌱 I'm currently learning NestJs</p>
-<p>💬 Ask me about Wordpress and Woocommerce</p>
+<p>💬 Ask me about Wordpress</p>
 <p>📫 How to reach me? royrakesh.cob@gmail.com</p>
 <p>⚡ Fun Fact: I love to eat</p>
 
