@@ -1,59 +1,63 @@
-# 💻 Tech Enthusiast & Problem Solver | WordPress Plugin Author
+# 🥷 Tech Enthusiast & Problem Solver | WordPress Plugin Author
 
-<img width="100%" src="./royrakesh-header-2024.jpeg" alt="my banner">
+<img width="100%" src="./royrakesh-header-2024.jpeg" alt="Rakesh Roy - Developer Banner">
 
-Hi, I’m Rakesh, I'm a Full-Stack Developer from 🚀 India. I have over 8+ years of experience building interactive sites for global/local clients.
 
-Using modern web technologies such as Wordpress, Angular, Barbajs and Mobile technologies like Flutter and Ionic, I'm able to deliver fast.
+Hi, I’m **Rakesh Roy**, a passionate **Software Engineer** from 🇮🇳 India, driven by the goal of building impactful solutions. With **9+ years of experience**, I specialize in creating **high-performance websites** and **scalable solutions** using modern technologies like **WordPress**, **Laravel**, and **Inertia.js**.
 
-## 💫 Liitle Bit More About Me
-<p>👯 I want to collaborate on NestJs</p>
-<p>🙏 I'm looking for help with Typescript</p>
-<p>🌱 I'm currently learning NestJs</p>
-<p>💬 Ask me about Wordpress</p>
-<p>📫 How to reach me? royrakesh.cob@gmail.com</p>
-<p>⚡ Fun Fact: I love to eat</p>
+As a **WordPress Plugin Author**, I’ve developed **custom themes and plugins**, optimized site performance for **enterprise-scale platforms**, and contributed extensively to **open-source projects**. My notable contributions include creating plugins like the **Bitly URL Shortener**, which has empowered thousands of users worldwide.
 
-## 💻 Skills
+In addition to coding, I’ve **led teams** to deliver complex projects, including architecting workflows for **high-traffic platforms**. By fostering collaboration and adopting innovative practices, I ensure teams meet goals efficiently while maintaining **code quality** and **scalability**.
+
+I’m committed to combining **technical expertise** with **leadership skills** to drive impactful change in the web development ecosystem.
+
+
+
+
+## 💡 About Me  
+- 👯 I’m looking to collaborate on **InartiaJs with React** projects.  
+- 🙏 Open to learning and guidance on **TypeScript** best practices.  
+- 🌱 Currently mastering **NestJS** alongside my full-stack workflow.  
+- 💬 Ask me about **WordPress Block Development**, **PHP**, and **eCommerce Solutions**.  
+- 📫 Reach me at: **royrakesh.cob@gmail.com**
+- 🌐 Visit my portfolio **https://royrakesh.dev**
+- ⚡ Fun Fact: I’m a foodie at heart and love experimenting with cuisines!  
+
+---
+
+## 💻 Core Skills  
+
 <p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/bulma-cyan?style=for-the-badge&logo=bulma&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-</p>
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30px">
+<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="30px">
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E" height="30px">
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="30px">
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white" height="30px">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30px">
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="30px">
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30px">
+</p>  
 
-## 👥 Connect With Me
+---
+
+## 📌 My Notable Achievements  
+- ⚙️ Created the **Bitly URL Shortener WordPress Plugin**, with over **11 thousands of downloads**.  
+- 🚀 Contributed to high-profile domains like **Bluehost.com**, **HostGator.com**, **web.com** and **Web.com**.  
+- 🛠️ Built custom WooCommerce payment gateways and enterprise-level projects.
+- 🏆 Led teams to deliver complex, high-traffic projects while fostering collaboration and scalability.  
+
+
+---
+
+## 📢 Let's Connect  
+
 <p>
-<a href="https://www.linkedin.com/in/royrakesh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/_royrakesh"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://stackoverflow.com/users/7313719/rakesh-roy"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/royrakesh/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"></a>
+<a href="https://x/_royrakesh" target="_blank">
+<img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="30px"></a>
+<a href="https://stackoverflow.com/users/7313719/rakesh-roy" target="_blank">
+<img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30px"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
-</p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=royrakesh">
-</p>
-
-## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=royrakesh&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royrakesh&layout=compact"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=royrakesh&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
