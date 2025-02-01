@@ -17,7 +17,7 @@ I’m committed to combining **technical expertise** with **leadership skills** 
 ## 💡 About Me  
 - 👯 I’m looking to collaborate on **InartiaJs with React** projects.  
 - 🙏 Open to learning and guidance on **TypeScript** best practices.  
-- 🌱 Going dip in PHP.
+- 🌱 Going dip in PHP and creating small php packages.
 - 💬 Ask me about **WordPress Block Development**, **PHP**, and **eCommerce Solutions**.  
 - 📫 Reach me at: **royrakesh.cob@gmail.com**
 - 🌐 Visit my portfolio **https://royrakesh.dev**
@@ -41,7 +41,7 @@ I’m committed to combining **technical expertise** with **leadership skills** 
 ---
 
 ## 📌 My Notable Achievements  
-- ⚙️ Created the **Bitly URL Shortener WordPress Plugin**, with over **11 thousands of downloads**.  
+- ⚙️ Created the [**Bitly URL Shortener WordPress Plugin**](https://wordpress.org/plugins/codehaveli-bitly-url-shortener/) , with over **11 thousands of downloads**.  
 - 🚀 Contributed to high-traffic websites. 
 - 🛠️ Built custom WooCommerce payment gateways and enterprise-level projects.
 - 🏆 Led teams to deliver complex, high-traffic projects while fostering collaboration and scalability.  
