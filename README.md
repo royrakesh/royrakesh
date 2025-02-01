@@ -1,6 +1,6 @@
 # 🥷 Tech Enthusiast & Problem Solver | WordPress Plugin Author
 
-<img width="100%" src="./royrakesh-header-2024.jpeg" alt="Rakesh Roy - Developer Banner">
+<img width="100%" src="./rakesh-roy.png" alt="Rakesh Roy - Developer Banner">
 
 
 Hi, I’m **Rakesh Roy**, a passionate **Software Engineer** from 🇮🇳 India, driven by the goal of building impactful solutions. With **9+ years of experience**, I specialize in creating **high-performance websites** and **scalable solutions** using modern technologies like **WordPress**, **Laravel**, and **Inertia.js**.
@@ -17,7 +17,7 @@ I’m committed to combining **technical expertise** with **leadership skills** 
 ## 💡 About Me  
 - 👯 I’m looking to collaborate on **InartiaJs with React** projects.  
 - 🙏 Open to learning and guidance on **TypeScript** best practices.  
-- 🌱 Currently mastering **NestJS** alongside my full-stack workflow.  
+- 🌱 Going dip in PHP.
 - 💬 Ask me about **WordPress Block Development**, **PHP**, and **eCommerce Solutions**.  
 - 📫 Reach me at: **royrakesh.cob@gmail.com**
 - 🌐 Visit my portfolio **https://royrakesh.dev**
@@ -42,7 +42,7 @@ I’m committed to combining **technical expertise** with **leadership skills** 
 
 ## 📌 My Notable Achievements  
 - ⚙️ Created the **Bitly URL Shortener WordPress Plugin**, with over **11 thousands of downloads**.  
-- 🚀 Contributed to high-profile domains like **Bluehost.com**, **HostGator.com**, **web.com** and **Web.com**.  
+- 🚀 Contributed to high-traffic websites. 
 - 🛠️ Built custom WooCommerce payment gateways and enterprise-level projects.
 - 🏆 Led teams to deliver complex, high-traffic projects while fostering collaboration and scalability.  
 
