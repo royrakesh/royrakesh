@@ -3,6 +3,7 @@
 <img width="100%" src="./rakesh-roy.png" alt="Rakesh Roy - Developer Banner">
 
 
+
 Hi, I’m **Rakesh Roy**, a passionate **Software Engineer** from 🇮🇳 India, driven by the goal of building impactful solutions. With **9+ years of experience**, I specialize in creating **high-performance websites** and **scalable solutions** using modern technologies like **WordPress**, **Laravel**, and **Inertia.js**.
 
 As a **WordPress Plugin Author**, I’ve developed **custom themes and plugins**, optimized site performance for **enterprise-scale platforms**, and contributed extensively to **open-source projects**. My notable contributions include creating plugins like the **Bitly URL Shortener**, which has empowered thousands of users worldwide.
@@ -37,6 +38,8 @@ I’m committed to combining **technical expertise** with **leadership skills** 
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="30px">
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30px">
 </p>  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=royrakesh&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" >
 
 ---
 
