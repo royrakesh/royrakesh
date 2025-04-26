@@ -4,13 +4,13 @@
 
 
 
-Hi, I’m **Rakesh Roy**, a passionate **Software Engineer** from 🇮🇳 India, driven by the goal of building impactful solutions. With **9+ years of experience**, I specialize in creating **high-performance websites** and **scalable solutions** using modern technologies like **WordPress**, **Laravel**, and **Inertia.js**.
+**Hi, I’m Rakesh Roy**, a **Software Engineer turned Engineering Leader** from **🇮🇳 India**, passionate about building impactful digital solutions at scale. With **9+ years of hands-on experience** in technologies like **WordPress, Laravel, and Inertia.js**, I’ve transitioned into an **Associate Engineering Manager** role, blending technical depth with leadership to drive high-performing teams.
 
-As a **WordPress Plugin Author**, I’ve developed **custom themes and plugins**, optimized site performance for **enterprise-scale platforms**, and contributed extensively to **open-source projects**. My notable contributions include creating plugins like the **Bitly URL Shortener**, which has empowered thousands of users worldwide.
+As a **WordPress Plugin Author**, I’ve crafted custom themes, optimized enterprise platforms, and contributed to open-source projects—including tools like the **Bitly URL Shortener**, used by thousands worldwide. My technical work focuses on **scalability, performance, and maintainability**.
 
-In addition to coding, I’ve **led teams** to deliver complex projects, including architecting workflows for **high-traffic platforms**. By fostering collaboration and adopting innovative practices, I ensure teams meet goals efficiently while maintaining **code quality** and **scalability**.
+Now, in my leadership role, I **mentor engineers, streamline cross-functional collaboration, and oversee the delivery of complex projects**—from high-traffic workflows to modular architectures. My goal is to foster a culture of **innovation, ownership, and agile execution** while ensuring technical excellence aligns with business outcomes.
 
-I’m committed to combining **technical expertise** with **leadership skills** to drive impactful change in the web development ecosystem.
+I’m committed to shaping the future of web development not just through code, but by **empowering teams, refining processes, and advocating for open-source solutions**.
 
 
 
