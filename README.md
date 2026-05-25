@@ -1,24 +1,27 @@
 # 🥷 
 
-**Rakesh Roy, WordPress & React Engineering Leader in Performance, SEO/GEO, and AI**
+**Rakesh Roy, Engineering Manager Leading Scalable Platform Architecture and High Traffic Systems**
 
-I lead engineering teams building high-traffic WordPress and React platforms for global enterprise brands including Bluehost, BigRock, and Network Solutions.
+I lead engineering teams delivering multi tenant web platforms for global brands such as BigRock, and Network Solutions.
 
-With over 10 years of experience in software engineering and technical leadership, I focus on scalable platform architecture, performance engineering, and modern web development. I currently manage a team of engineers while leading platform development across multiple enterprise brands at Newfold Digital.
+With 11+ years in software engineering and 3+ years in engineering leadership, I focus on building scalable, high performance platforms that power high traffic digital experiences. I currently manage multiple teams at Newfold Digital, owning delivery and platform evolution across 15+ enterprise web properties.
+
+I operate at the intersection of engineering execution and platform strategy—driving performance improvements, enabling scalable architectures, and aligning teams to deliver measurable business impact.
 
 ---
 
 ## 🌍 What I Actually Do
 
-I’m not just writing code — I’m designing systems that other engineers can build on confidently.
+I’m not just writing code — I’m leading teams and shaping platforms that engineers can build on confidently.
 
-- Build and maintain **production WordPress platforms** handling large traffic volumes  
-- Develop systems using **TypeScript, React, and Next.js**  
-- Create **developer tools and reusable PHP packages**  
-- Design **cloud-aware backup and infrastructure systems**  
-- Work deeply with **hosting platforms and domain product ecosystems**  
-- Improve **performance, architecture, and long-term maintainability**  
-- Mentor engineers and help teams move from “it works” → “it scales”  
+- Lead and grow engineering teams responsible for **large-scale, multi-tenant web platforms**  
+- Own **delivery execution, engineering planning, and platform evolution** across multiple web properties  
+- Drive **technical strategy, architecture decisions, and scalable engineering standards**  
+- Enable teams through **mentorship, process improvement, and developer empowerment**  
+- Align engineering work with **business impact, operational goals, and long-term platform vision**  
+- Foster a culture of **accountability, collaboration, and continuous improvement**  
+- Support **performance optimization, platform reliability, and maintainable system design**  
+- Stay hands-on with **WordPress, TypeScript, React, and modern web technologies** where it adds value
 
 ---
 
@@ -29,7 +32,7 @@ Open source is where I experiment, learn fast, and give back.
 - Author of a widely used **Bitly integration plugin for WordPress**  
 - Contributor to tooling that simplifies **plugin architecture and WordPress workflows**  
 - Builder of internal-style tools in public — focused on **automation, clean structure, and developer experience**  
-- Strong advocate of **modular PHP design and modern standards** in legacy ecosystems  
+- Strong advocate of **modular design and modern standards** in legacy ecosystems  
 
 I enjoy turning real-world engineering problems into reusable solutions others can benefit from.
 
@@ -37,7 +40,7 @@ I enjoy turning real-world engineering problems into reusable solutions others c
 
 ## 🏗 Engineering Leadership
 
-I currently manage a team of **5 skilled engineers**, guiding delivery, architecture decisions, and engineering quality — while still contributing hands-on to critical systems.
+I currently manage a team of **10 skilled engineers**, guiding delivery, architecture decisions, and engineering quality — while still contributing hands-on to critical systems.
 
 My leadership philosophy:  
 **Strong systems + empowered engineers = sustainable velocity**
